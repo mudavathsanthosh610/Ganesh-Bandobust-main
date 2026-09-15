@@ -1,0 +1,5 @@
+# Local Android and IDE configuration
+mobile/android/local.properties
+
+# Generated Android crash dumps
+mobile/android/*.hprof
